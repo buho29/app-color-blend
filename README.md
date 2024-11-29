@@ -9,6 +9,6 @@ write in python
 
 ![Alt text](mezcla.jpg)
 
-![Alt text](fav.jpg)
+![Alt text](favorito.jpg)
 
 ![Alt text](export.jpg)
