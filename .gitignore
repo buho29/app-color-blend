@@ -5,8 +5,7 @@ __pycache__/
 .venv/
 venv/
 
-# PyInstaller
+# PyInstaller (el ejecutable publicado es color-blend.exe, en la raíz)
 build/
 dist/
 *.spec
-*.exe
