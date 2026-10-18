@@ -1,0 +1,5 @@
+customtkinter>=5.2
+CTkToolTip>=0.8
+pyscreeze>=0.1.28
+pynput>=1.7
+pillow>=9.0
